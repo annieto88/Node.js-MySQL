@@ -5,7 +5,7 @@
 -Prompts the customer with products which they would like to purchase by ID number.</br>
 -Asks for quantity.</br>
     *If there is sufficient quantity, it will return a message and total cost for that purchase.</br>
-    *However, if there is insufficient quantity, it will return a message saying "Insufficient quantity!"."</br>
+    *However, if there is insufficient quantity, it will return a message saying "Insufficient quantity!".</br>
 
 ## Getting Started
 -Clone repo </br>
